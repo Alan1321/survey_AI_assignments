@@ -1,0 +1,7 @@
+Optimal Parameters:
+C = 2048
+Gamma = 0.0078125
+CV Rate = 97.5%
+
+Prediction Accuracy:
+90% (27/30)
